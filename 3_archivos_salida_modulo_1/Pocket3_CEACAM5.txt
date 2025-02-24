@@ -1,0 +1,22 @@
+Detalles para el Pocket 3:
+  ALA: 6 veces (6.67%)
+  GLU: 4 veces (4.44%)
+  LEU: 9 veces (10.00%)
+  PRO: 7 veces (7.78%)
+  LYS: 2 veces (2.22%)
+  SER: 10 veces (11.11%)
+  ILE: 2 veces (2.22%)
+  ASN: 9 veces (10.00%)
+  VAL: 9 veces (10.00%)
+  ASP: 5 veces (5.56%)
+  PHE: 2 veces (2.22%)
+  THR: 7 veces (7.78%)
+  CYS: 2 veces (2.22%)
+  GLN: 3 veces (3.33%)
+  TYR: 3 veces (3.33%)
+  TRP: 2 veces (2.22%)
+  ARG: 5 veces (5.56%)
+  GLY: 3 veces (3.33%)
+Carga total del pocket: -2
+Hidrofobicidad total del pocket: -32.4
+Secuencia de aminoácidos del pocket: ALA GLU LEU PRO LYS PRO SER ILE SER SER ASN ASN SER LYS PRO VAL GLU ASP ASP ALA VAL ALA PHE THR CYS GLU PRO GLU ALA GLN ASN THR THR TYR LEU TRP TRP VAL ASN SER LEU PRO VAL SER PRO ARG LEU GLN LEU SER ASN GLY ASN ARG THR LEU THR LEU PHE VAL THR ARG ASN ASP ALA ARG ALA TYR VAL CYS GLY ILE GLN ASN SER VAL SER ASN ARG SER ASP PRO VAL THR LEU ASP VAL LEU TYR GLY
